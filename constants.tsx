@@ -48,9 +48,9 @@ Ofrezco servicios de:
 • Embajadora de marca a largo plazo 
 • Promoción de productos y marcas en historias y posts 
 Cuéntame tu idea y creemos algo increíble juntos. ¡Hagamos que tu marca destaque! 🌟
-Contáctanos por DM o E-Mail.`,
+Contáctanos por DM o E-Mail = dumies.70@gmail.com.`,
     buttons: [
-      { text: "Conversemos aquí", url: "https://mail.google.com/" }
+      { text: "dumies.70@gmail.com", url: "https://mail.google.com/" }
     ]
   },
   productos: {
